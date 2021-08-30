@@ -1,1 +1,4 @@
-# About-Me
+- 👋 Hi, I’m Sintaxis07
+- 👀 I’m interested in: C#
+- 🌱 Currently: Hacking
+- 💞️ I like programming and design, my programming are: Python & JavaScript
